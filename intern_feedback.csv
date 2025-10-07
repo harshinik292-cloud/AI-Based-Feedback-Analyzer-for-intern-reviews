@@ -1,0 +1,6 @@
+intern_id,intern_name,reviewer,date,feedback_text
+I001,Asha Singh,Rohit,2025-08-20,Asha shows excellent communication and explains her approach clearly. She took initiative to propose optimizations. Needs to improve unit testing skills.
+I001,Asha Singh,Priya,2025-08-25,Very proactive and a pleasure to work with. Could improve understanding of system design; recommend reading more architecture patterns.
+I002,Rahul Verma,Sonia,2025-08-22,Rahul's code quality is okay but often late on deliverables. Needs to improve time management. Works well with the team.
+I002,Rahul Verma,Anil,2025-08-28,He is helpful and collaborates with peers. Recommend focusing on debugging and following code standards.
+I003,Neha Rao,Maya,2025-08-21,Neha picks up tasks quickly and demonstrates strong technical skills. Could be more confident when presenting to stakeholders.
